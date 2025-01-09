@@ -1,0 +1,12 @@
+env/
+*.lib
+*.dll
+*.exe
+*.pdb
+*.user
+*.suo
+*.cache
+*.log
+*.bak
+*.vspscc
+
